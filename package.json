@@ -1,0 +1,24 @@
+{
+  "name": "cad_veiculos",
+  "version": "1.0.0",
+  "description": "Esse projeto tem como finalidade criar um simples sistema de CRUD, onde se cadastra o veículo, as suas respectivas informações e também as fotos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheDev/cad_veiculos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheDev/cad_veiculos/issues"
+  },
+  "homepage": "https://github.com/MatheDev/cad_veiculos#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.7"
+  }
+}
